@@ -1,7 +1,7 @@
 # Lockscreen
 
 <div align="center">
-  <img src="https://pauldyanez.com/images/github/Lockscreen.png" width="900"/>
+  <img src="https://pauldyanez.com/images/github/Lockscreen.jpg" width="900"/>
 </div>
 <br>
 Design files in SwiftUI.
